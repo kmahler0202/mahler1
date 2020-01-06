@@ -1,0 +1,11 @@
+C:\Users\guest1\source\repos\lets try this again\bin\Debug\netcoreapp3.1\lets try this again.exe
+C:\Users\guest1\source\repos\lets try this again\bin\Debug\netcoreapp3.1\lets try this again.deps.json
+C:\Users\guest1\source\repos\lets try this again\bin\Debug\netcoreapp3.1\lets try this again.runtimeconfig.json
+C:\Users\guest1\source\repos\lets try this again\bin\Debug\netcoreapp3.1\lets try this again.runtimeconfig.dev.json
+C:\Users\guest1\source\repos\lets try this again\bin\Debug\netcoreapp3.1\lets try this again.dll
+C:\Users\guest1\source\repos\lets try this again\bin\Debug\netcoreapp3.1\lets try this again.pdb
+C:\Users\guest1\source\repos\lets try this again\obj\Debug\netcoreapp3.1\lets try this again.AssemblyInfoInputs.cache
+C:\Users\guest1\source\repos\lets try this again\obj\Debug\netcoreapp3.1\lets try this again.AssemblyInfo.cs
+C:\Users\guest1\source\repos\lets try this again\obj\Debug\netcoreapp3.1\lets try this again.dll
+C:\Users\guest1\source\repos\lets try this again\obj\Debug\netcoreapp3.1\lets try this again.pdb
+C:\Users\guest1\source\repos\lets try this again\obj\Debug\netcoreapp3.1\lets try this again.csprojAssemblyReference.cache
